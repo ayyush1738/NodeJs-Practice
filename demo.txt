@@ -1,0 +1,202 @@
+Skip to main content
+Skip to footer
+Click here or press enter to go to homepage
+What we do
+Who we are
+Insights
+Careers
+Newsroom
+Investors
+CONTACT US
+TCS WORLDWIDE
+Search
+tata.com logoOPEN IN NEW TAB
+Neuromorphic computing: Ushering in AI innovation in BFSI
+BANKING 
+WHITE PAPER
+Neuromorphic computing: Ushering in AI innovation in BFSI
+SUKRITI JALALI
+
+Principal Consultant, BFSI, TCS
+
+SHARE NEUROMORPHIC COMPUTING IN BFSI: THE TECH OF THE FUTURE
+INDUSTRY
+Banking
+This will open an overlay
+Capital Markets
+This will open an overlay
+Insurance
+This will open an overlay
+SERVICES
+Consulting
+This will open an overlay
+HIGHLIGHTS
+Firms in the banking, financial services, and insurance (BFSI) industry have embraced artificial intelligence (AI) and machine learning (ML).
+These technologies use deep learning (DL) models that require massive sets of training data, consume enormous amounts of power, and fall short in adapting to the changing business environment.
+Neuromorphic computing (NC) can help firms leverage the latest innovations in AI to address some of the existing challenges while paving the way for next-generation use cases. 
+ON THIS PAGE
+Abstract
+Inpage
+Introduction
+Inpage
+NC To The Rescue
+Inpage
+Theory To Action
+Inpage
+What Lies Ahead
+Inpage
+ABSTRACT
+The banking, financial services, and insurance (BFSI) industry has been at the forefront of embracing disruptive technologies.
+
+Firms have adopted artificial intelligence (AI) and machine learning (ML) to recast customer experience, improve business operations, and develop futuristic products and services. Existing AI and ML technologies utilize deep learning (DL) models that run on compute-intensive data centers, require massive sets of training data, consume a large amount of power to train, and fall short in adapting to the changing business environment.
+
+In our view, the BFSI industry can overcome these challenges by exploring neuromorphic computing (NC) for certain kinds of use cases. Spiking neural networks (SNNs), which take inspiration from the functioning of biological neural networks in the human brain, when run on NC hardware, perform on par with DL models but consume significantly lesser power. They are purpose-built for AI and ML and offer advantages such as speed of learning and faster parallel processing. We highlight how NC can help firms overcome inefficiencies in the existing AI and ML deployments in the BFSI industry and examine new use cases.
+
+INTRODUCTION
+The proliferation of connected devices in the BFSI industry has generated enormous amounts of data.
+
+This data needs to be analyzed and insights delivered in real time to enable instant action. Firms have been making use of data derived from images, videos, text, audio, and IoT devices. In the insurance industry, the use cases span property damage analysis, driver sleep detection, elderly care, and predictive asset maintenance. Robo-advisory for investment and wealth management, customer sentiment analysis, and fraud detection are other critical areas in the BFSI sphere that benefit from AI and ML.
+
+However, much of the data analysis is post-facto or after-the-event, which means firms do not receive a timely warning and cannot take action to avert adverse events or minimize their impact. In addition, the existing models use DL networks that consume massive amounts of energy, both for training and inference. Firms need voluminous data sets to train the models while processing data sequentially. Enhancing the models or modifying their parameters are complex and cumbersome tasks. All this has resulted in several negative impacts for BFSI firms: higher carbon footprint, increased time and effort to train models, processing delays, and high manual effort across the AI and ML lifecycle whenever there is a change in input parameters or training data. 
+
+NC TO THE RESCUE
+In our view, the BFSI industry should explore third-generation AI systems powered by neuromorphic computing (NC) platforms and spiking neural networks (SNNs).
+
+This will help them address the aforementioned shortcomings and improve the response time, while significantly lowering the carbon footprint. NC closely replicates how the human brain responds to complex external events and learns unsupervised while using minimal energy. We believe that these systems will facilitate a natural progression toward developing ultra-low energy adaptive AI applications by mimicking human cognitive capabilities. NC will also reduce cloud dependence, which means that edge applications can be enabled without compromising privacy and security.
+
+Key features of NC include:
+
+Sparsity – allows models to be trained with a lesser amount of data compared to the existing DL models. This dramatically reduces memory and input training data requirements. For instance, in touchless banking kiosks, cameras underpinned by NC can recognize and learn individual gestures much faster, enabling personalized customer experience.
+Event-based processing – allows firms to detect and respond to events in real time. For instance, for parametric insurance policies, instant detection of a threshold breach is essential for immediate, frictionless pay-outs, which is key to superior customer experience.
+Colocation of memory and compute – enables faster parallel processing of multiple data streams. An insurance use case in focus is the prevention of work-related injuries in hazardous environments, resulting in reduced accidents and workers’ compensation claims. Given the low energy use of NC, some of the models can easily run on handheld devices without the need for cloud connectivity.
+These factors make NC a natural choice for BFSI use cases that require real-time insights and are time-sensitive in nature. 
+
+PUTTING THEORY TO ACTION  
+The insurance industry is moving from a protection to a prevention and preservation paradigm.
+
+And embracing NC will help insurers accelerate this shift. Currently, data from IoT devices – wearables, connected vehicles, or drones – is sent over a network to cloud servers, where pre-trained algorithms process, analyze, and respond to each event. The response needs to travel back to the edge, based on which action is taken. This causes delays, consumes significant processing power on the server, and requires all scenarios to be pre-trained. This is not the best approach where a real-time response is critical to prevent the occurrence of adverse events or minimize their impact.
+
+With its in-situ processing capabilities and ability to offer real-time inferences, NC offers a superior alternative. In our view, there is tremendous scope for NC technology to improve edge AI applications (see Figure 1). For example, real-time driver sleep detection is imperative to prevent an accident and the consequent insurance claims. Similarly, in home care, NC can prove to be a game changer for the remote monitoring of elderly patients. A fall or a sudden heart attack can be detected in real time. The connected ecosystem of family, doctors, ambulance, caregivers, and insurance providers can be alerted without delay. Insurance applications that need analytical insights at the edge span a wide range. They include usage-based vehicle insurance, real-time tracking of perishable cargo, predictive maintenance of critical equipment, elder care, early detection of anomalies in home insurance, and video- based claims processing. NC can also aid in faster detection of natural disasters such as floods, fires, or other calamities. This information can be fed to the insureds in advance. Parametric insurance products that offer pre-specified payouts based upon a trigger are gaining traction in recent times. We believe that a combination of blockchain- and NC-based real-time event detection is superior to existing parametric claims processing mechanisms.
+
+Figure 1 - The use cases of neuromorphic computing in the BFSI industry
+View Description
+ 
+
+Time series data analysis is crucial for capital market firms for functions such as stock prices prediction, asset value fluctuation, derivative pricing, asset allocation, fraud detection, and high frequency trading. It requires learning and predicting patterns over a time period, where early experiments have found SNNs to be better than existing alternatives, especially for predicting future data points. NC can benefit each of these scenarios, but the actual gain will have to be evaluated on a case-by-case basis, depending on the number of model parameters, input datasets, the need for real-time predictions, and lower latency.
+
+The most important benefit of NC will be in reducing the carbon footprint, especially as sustainability has become a boardroom agenda for BFSI firms, with the industry making net-zero commitments following the Paris agreement. With its key characteristic of lower power consumption, NC adoption will emerge as a priority for BFSI organizations given their reliance on IT infrastructure and ML applications, which contribute to higher emissions. As the integration of speech, video, images, generative AI, and facial recognition technologies into BFSI applications increases, reimagining the entire ML lifecycle from a sustainability perspective will become imperative. In early trials, NC has proved to be significantly more energy efficient while achieving accuracy that is comparable with DL models on a standard CPU or GPU. The limitations of existing models such as the need for multiple training cycles, hundreds of training examples, massive number crunching, and retraining due to information changes make the learning and inference process energy- and effort-intensive. NC can help overcome these challenges and accelerate green IT efforts.
+
+In addition to reducing the carbon footprint, protecting property and communities from damage induced by climate change is also high on the regulatory agenda. For instance, to address wildfire risk intensified by climate change, the California Department of Insurance has issued ‘Safer From Wildfires’, a new insurance framework, which recommends actions that insurers should consider to mitigate their impact on communities. In our view, NC can help insurers enable the real-time audit of a slew of mitigation actions and features like Class-A fire rated roof, ember- and fire-resistant vents, and defensible space compliance.
+
+Digital ecosystems are slowly but surely gaining traction in the BFSI industry as banks and insurers look for innovative business models to pursue new value streams and steal a march over the competition. Initiatives such as embedded lending, embedded investing, connected wellness, KYC automation, and parametric insurance will continue to push the boundaries of security and privacy. Existing techniques rely on pre-trained data sets and perform post-facto analysis to detect security breaches. NC can improve monitoring by detecting a new threat seconds before it evolves into a security ‘event.’ NC can enhance the in-situ processing of biometrics data in know your customer (KYC) verification and ensure that data from wearables is encrypted before it is sent over a network. Digital banking transactions on smartphones can be monitored in real time and instant action can be taken to prevent a breach when anomalous patterns are detected. 
+
+WHAT LIES AHEAD
+In our view, BFSI firms should adopt a use case-centric approach to NC adoption to understand the advantages it can bring to existing AI and ML deployments. 
+
+And the advantages span a wide spectrum – from providing real-time insights in a connected insurance ecosystem to instantly detecting anomalous user behavior in digital banking transactions or running specific time-sensitive calculations in capital markets. We believe that it will be advantageous for BFSI firms to identify specific use cases that can significantly benefit from NC and run early proofs of concepts to evaluate its transformational potential.
+
+However, a word of caution: not all BFSI AI and ML use cases will gain from NC, and a careful analysis of the nature of the use case, latency, and the expected outcomes is key. We envisage the co-existence of traditional CPUs and/or GPUs, neural hardware and TPUs, as well as neuromorphic platforms. Having said that, we expect NC – with its ability to enhance customer experience, facilitate early risk detection, deliver inferences in real time, and lower carbon footprint – to emerge as the natural choice for the BFSI industry. We believe that BFSI firms must stay abreast of the evolution of NC and its potential applications in the industry—once the technology matures, quick action will be necessary to gain a lead. 
+
+Image of Sukriti Jalali
+Sukriti Jalali
+Sukriti Jalali is a principal consultant and thought leader in TCS’ Banking, Financial Services, and Insurance (BFSI) business unit. She is passionate about technology-enabled business transformation and helping customers achieve their growth and transformation objectives. Sukriti has presented at various industry forums and regularly publishes thought paper... Read Moreabout Sukriti Jalali
+WRITE TO ME  SUKRITI.JALALI@TCS.COM
+Related reading
+Pushing the boundaries of edge computing
+
+White Paper | 07 Jul 2022  Opens in new tab
+Automated Label Generation of Unlabelled Time Series
+
+Research | 27 Feb 2023  Opens in new tab
+Placing a Bet on Edge Computing
+
+Report | 16 Aug 2022  Opens in new tab
+Complexity management and Interoperability
+
+Report | 16 Aug 2022  Opens in new tab
+Transformation starts here
+Ready to move from enterprise to ecosystem?
+
+FIND OUT MORE
+Who we are
+What we do
+Insights
+ContactPress Enter to open an overlay
+Industries
+Banking
+Capital Markets
+Consumer Goods and Distribution
+Communications, Media, and Information Services
+Education
+Energy, Resources, and Utilities
+Healthcare
+High Tech
+Insurance
+Life Sciences
+Manufacturing
+Public Services
+Retail
+Travel and Logistics
+Services
+Artificial Intelligence
+Cloud
+Cognitive Business Operations
+Consulting
+Cybersecurity
+Data and Analytics
+Enterprise Solutions
+IoT and Digital Engineering
+Sustainability Services
+TCS Interactive
+TCS and AWS Cloud
+TCS Enterprise Cloud
+TCS and Google Cloud
+TCS and Microsoft Cloud
+Products and Platforms
+TCS ADD™
+TCS BaNCS™
+TCS BFSI Platforms
+TCS CHROMA™
+TCS Customer Intelligence & Insights™
+TCS ERP on Cloud
+ignio™  Opens in new tab
+TCS HOBS™
+TCS Intelligent Urban Exchange™
+TCS OmniStore™
+TCS Optumera™
+TCS TAP™
+Quartz™ – The Smart Ledgers™
+TCS TwinX™
+TCS MasterCraft™
+Jile™  Opens in new tab
+TCS iON™  Opens in new tab
+Insights
+Customer Stories
+Cloud
+Blockchain
+IoT
+Metaverse
+Future of Work
+Health and Wellness
+Sustainability
+TCS.AI
+Cybersecurity
+Perspectives
+More information
+Careers
+Corporate Social Responsibility
+Diversity, Equity, and Inclusion
+Investor Relations  Opens in new tab
+Sports Sponsorships
+TCS Pace™
+TCS Research
+The TCS Way
+Who we are
+Tata consultancy services
+FacebookOpen in New Tab Facebook
+YoutubeOpen in New Tab Youtube
+TwitterOpen in New Tab Twitter
+InstagramOpen in New Tab Instagram
+linkedinOpen in New Tab linkedin
+©2024 TATA Consultancy Services Limited
+Privacy NoticeCookie PolicyDisclaimerSecurity PolicyCalifornia Notice at CollectionCustomize Cookies
